@@ -1,5 +1,15 @@
 body {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+#bodyContainer {
     max-width: 900px;
+
 }
 
 #header {
